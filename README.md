@@ -1,2 +1,2 @@
 # css_project
-this i my first repository
+this i a basic spotify clone i made using html and css
